@@ -1,7 +1,7 @@
 [
   {
     "user": "admin",
-    "pass": "2003",
+    "pass": "2001",
     "info": "ADMIN"
   },
   {
@@ -9,4 +9,5 @@
     "pass": "4838",
     "info": "KOMENTARZ"
   }
+
 ]
