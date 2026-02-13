@@ -1,2 +1,12 @@
-"admin" "2003" ;ADMIN
-"mko55" "4838" ;KOMENATRZ
+[
+  {
+    "user": "admin",
+    "pass": "2003",
+    "info": "ADMIN"
+  },
+  {
+    "user": "mko55",
+    "pass": "4838",
+    "info": "KOMENTARZ"
+  }
+]
